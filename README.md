@@ -1,6 +1,6 @@
 
 # Random Ca Dao in Vietnamese
-<img src="https://github.com/tomzaku/react-native-shimmer-placeholder/blob/master/demo.png?raw=true">
+<img src="https://github.com/tomzaku/tuc-ngu-vietnam/blob/master/demo.png?raw=true">
 
 ## Why
 
